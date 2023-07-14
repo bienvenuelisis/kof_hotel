@@ -1,16 +1,13 @@
-# kofhotel
+# KOF HOTEL
 
-A new Flutter project.
+Codelab : [Inspiration](https://dribbble.com/shots/21773378-Athouse-Real-Estate-mobile-App)
 
-## Getting Started
+![Affiche Promotionnel](workshop/promotional_visual.jpg)
 
-This project is a starting point for a Flutter application.
+Application de Gestion de Faveurs.
 
-A few resources to get you started if this is your first Flutter project:
+Le but de ce codelab réalisé à l'IFNTI avec les étudiants de la troisième année est de les initier au développement d'une application mobile avec #Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+En première partie, nous avons réalisé de zéro l'UI de l'application pour mettre en pratique le cours théorique, _Comment réaliser de belles interfaces avec Flutter_.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+En seconde partie nous avons ajouté, deux systèmes de gestion d'état (setState, Provider) pour dynamiser notre application.
